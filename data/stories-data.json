@@ -11,7 +11,7 @@
     ],
     "stories": [
       {
-        "id": "feq",
+        "id": "1",
         "title": "Ang Lumang Mansyon",
         "category": "Gothic",
         "author": "Juan Dela Cruz",
@@ -36,7 +36,7 @@
         }
       },
       {
-        "id": "fewg",
+        "id": "2",
         "title": "Takot sa Dilim",
         "category": "Psychological",
         "author": "Maria Santos",
@@ -59,7 +59,7 @@
         }
       },
       {
-        "id": "njkvef",
+        "id": "3",
         "title": "Ang Lumang Paaralan",
         "category": "Paranormal",
         "author": "Pedro Reyes",

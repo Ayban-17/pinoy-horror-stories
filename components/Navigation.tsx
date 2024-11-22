@@ -126,7 +126,7 @@ const Navigation = () => {
                   {['Home', 'Stories', 'Categories', 'About'].map((item) => (
                     <motion.a
                       key={item}
-                      href={`/${item.toLowerCase()}`}
+                      href={item === 'Home' ? '/' : item === 'Stories' ? '/stories' : item === 'Categories' ? '/categories' : '/about'}
                       whileHover={{ x: 10 }}
                       className="block px-4 py-3 text-red-400 hover:text-red-300 transition-colors rounded-lg hover:bg-red-500/10"
                     >
