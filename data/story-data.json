@@ -1,0 +1,29 @@
+{
+    "stories": [
+      {
+        "id": "1",
+        "title": "The Haunted Mansion",
+        "category": "Paranormal",
+        "author": "Juan Dela Cruz",
+        "datePublished": "2024-02-15",
+        "readTime": "5 min",
+        "likes": "2.1k",
+        "views": "15k",
+        "imageUrl": "https://images.unsplash.com/photo-1520263115673-610416f52ab6",
+        "content": {
+          "preview": "In the depths of night, when shadows dance and whispers echo through empty halls...",
+          "fullStory": [
+            "Sa gitna ng madilim na gabi, sa isang lumang mansyon sa probinsya ng Laguna, nagsimula ang kwentong ito. Ako si Maria, isang freelance photographer na nakakuha ng assignment para kuhanan ng larawan ang dating tahanan ng mga Dela Torre.",
+            "Ang mansyon ay nakatayo na sa loob ng mahigit isang siglo. Dating tahanan ito ng mayamang pamilya, ngunit ngayon ay pinabayaan na at balot ng mga alamat at kuwentong nakatatakot.",
+            "Sa unang pagpasok ko pa lang, ramdam ko na ang kakaibang atmosphere ng lugar. Ang hangin ay malamig at mabigat, at kahit walang hangin, ang mga kurtina ay gumagalaw.",
+            "Habang ako ay kumukuha ng larawan sa ikalawang palapag, narinig ko ang mahinang tunog ng piano mula sa music room sa ibaba. Alam kong mag-isa lang ako sa bahay. Dahan-dahan akong bumaba para tingnan.",
+            "Ang piano ay tumutugtog ng isang pamilyar na kanta. Ngunit nang ako ay makarating sa music room, tumigil ito. Walang tao sa harap ng piano, ngunit ang upuan ay mainit, para bang may katatapos lang tumugtog.",
+            "Sa mga susunod na oras, mas marami pang kakaibang pangyayari ang naranasan ko. May mga yapak na naririnig sa walang tao, mga pinto na kusang bumubukas at nagsasara, at mga imahe sa mga lumang litrato na para bang nakatingin sa akin.",
+            "Nang matapos ang aking assignment at nareview ko ang mga kuha kong litrato, may napansin akong kakaiba. Sa bawat larawan, may isang babaeng nakatayo sa background, nakasuot ng puting bestida. Ang mas nakakabahala, sa bawat susunod na litrato, mas lumalapit siya ng lumalapit sa camera.",
+            "Sa huling larawan, malinaw na nakita ko ang kanyang mukha. Ito ay puno ng kalungkutan at galit. At sa likod ng litrato, may nakasulat na mensahe sa lumang handwriting: 'Hindi mo dapat ginambala ang aming pahinga.'",
+            "Hanggang ngayon, hindi ko na tinatanggap ang mga assignment na may kinalaman sa lumang bahay o mansyon. At kahit kailan, hindi ko na muling binuksan ang folder na naglalaman ng mga larawang iyon."
+          ]
+        }
+      }
+    ]
+  }
